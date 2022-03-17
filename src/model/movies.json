@@ -1,0 +1,68 @@
+[
+    {
+        "id": "d1u41m",
+        "addedAt": "2022-02-24T21:00:21.270Z",
+        "title": "Spider-man Far From Home",
+        "genre": "Action, Adventure"
+    },
+    {
+        "id": "uour5n",
+        "addedAt": "2022-02-24T20:58:29.126Z",
+        "title": "The Empire Strikes Back",
+        "genre": "Action, , Sci-fi"
+    },
+    {
+        "id": "3qtje8",
+        "addedAt": "2022-02-24T20:59:33.868Z",
+        "title": "Avengers",
+        "genre": "Action, Adventure"
+    },
+    {
+        "id": "h9bogv",
+        "addedAt": "2022-02-24T20:59:57.747Z",
+        "title": "Eternals",
+        "genre": "Action, , Sci-fi"
+    },
+    {
+        "id": "mhm1gh",
+        "addedAt": "2022-02-24T21:00:41.214Z",
+        "title": "Matrix",
+        "genre": "Sci-fi, , Sci-fi"
+    },
+    {
+        "id": "pmcadk",
+        "addedAt": "2022-02-24T21:01:22.912Z",
+        "title": "The Godfather",
+        "genre": "Action"
+    },
+    {
+        "id": "1vk7fj",
+        "addedAt": "2022-02-24T21:01:45.794Z",
+        "title": "Encanto",
+        "genre": "Animation, Musical"
+    },
+    {
+        "id": "a6gc6t",
+        "addedAt": "2022-02-24T21:02:13.776Z",
+        "title": "Toy Story",
+        "genre": "Animation"
+    },
+    {
+        "id": "8l6h5b",
+        "addedAt": "2022-02-24T21:02:35.921Z",
+        "title": "Avatar",
+        "genre": "Action, Sci-fi"
+    },
+    {
+        "id": "4s87m5",
+        "addedAt": "2022-02-24T21:03:46.769Z",
+        "title": "Dr. Strange",
+        "genre": "Action"
+    },
+    {
+        "id": "8e42bl",
+        "addedAt": "2022-02-24T21:04:04.138Z",
+        "title": "Inception",
+        "genre": "Action"
+    }
+]
